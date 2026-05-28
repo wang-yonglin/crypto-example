@@ -1,9 +1,8 @@
-package org.wyl.crypto;
+package org.wyl.crypto.demo;
 
 import org.apache.commons.codec.binary.Base64;
 
 import javax.crypto.Cipher;
-import java.nio.charset.StandardCharsets;
 import java.security.*;
 import java.security.interfaces.RSAPrivateKey;
 import java.security.interfaces.RSAPublicKey;

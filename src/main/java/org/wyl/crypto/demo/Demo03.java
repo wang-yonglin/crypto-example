@@ -1,4 +1,4 @@
-package org.wyl.crypto;
+package org.wyl.crypto.demo;
 
 import javax.crypto.Cipher;
 import javax.crypto.SecretKey;

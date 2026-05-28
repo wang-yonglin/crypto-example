@@ -1,4 +1,4 @@
-package org.wyl.crypto;
+package org.wyl.crypto.demo;
 
 import org.apache.commons.codec.binary.Base64;
 
